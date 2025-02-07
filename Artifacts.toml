@@ -1,78 +1,78 @@
 [[CUDNN]]
 arch = "x86_64"
 cuda = "11.0"
-git-tree-sha1 = "1da3718a56a37ddd4d3bf1f4171c9583e9510318"
+git-tree-sha1 = "fc3a26f2078e7cffb27732a5f0815f6d07dc0fbd"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CUDNN.download]]
-    sha256 = "754c03872f6cfc9ad741219a442f2210b8de0f150d3c1f7d7e55fed333d44d84"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.4.0+0/CUDNN.v9.4.0.x86_64-linux-gnu-cuda+11.0.tar.gz"
+    sha256 = "1aae197cdc1ed8f226783249883370b8b6ac7b8cd56bfd051f9a45049bfc2f23"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.7.0+0/CUDNN.v9.7.0.x86_64-linux-gnu-cuda+11.0.tar.gz"
 [[CUDNN]]
 arch = "aarch64"
 cuda = "11.0"
 cuda_platform = "sbsa"
-git-tree-sha1 = "accc9ffce89313f76d1d67ae486ec4eb5e08c1a5"
+git-tree-sha1 = "63a476c5891f34ad49bc9cf31a79ebc8e74d1dff"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CUDNN.download]]
-    sha256 = "e30fd80f177c0339c8b6d8b0cf8952e076da98b51eec8d6317b49ff804c52439"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.4.0+0/CUDNN.v9.4.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+11.0.tar.gz"
+    sha256 = "ab21e9a3f00966b5d6a82592012bb243698948df45464fdd033db444a77265c5"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.7.0+0/CUDNN.v9.7.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+11.0.tar.gz"
 [[CUDNN]]
 arch = "x86_64"
 cuda = "11.0"
-git-tree-sha1 = "aecded3c721ec9028b6cf3a2c8ed10f9408e248f"
+git-tree-sha1 = "63fb61aa87898abd58e81a405ed26b1b87656293"
 lazy = true
 os = "windows"
 
     [[CUDNN.download]]
-    sha256 = "ca47836cd96846193df0ce878f289b888cbe4fa8729338ef5bb0fd729701152a"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.4.0+0/CUDNN.v9.4.0.x86_64-w64-mingw32-cuda+11.0.tar.gz"
+    sha256 = "89d50127f9834883ce32f61856d5de1a84b8f6585ca0c84c06f4ad7f413ebdd4"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.7.0+0/CUDNN.v9.7.0.x86_64-w64-mingw32-cuda+11.0.tar.gz"
 [[CUDNN]]
 arch = "x86_64"
 cuda = "12.0"
-git-tree-sha1 = "8e7456794f147517aa9ba5a1147e4ecedffbbfa1"
+git-tree-sha1 = "730e0346ce7a261f85be0335a0a090ce7deab144"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CUDNN.download]]
-    sha256 = "a727533d92d0743e121c0cd33f9f8a466a74ce890f0fdd7e6da2217172e9678a"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.4.0+0/CUDNN.v9.4.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
+    sha256 = "fc4a68b7e73fd6e4661ee1246bf1191bf62ebd667e750f4ca6d3f942110bb552"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.7.0+0/CUDNN.v9.7.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
 [[CUDNN]]
 arch = "aarch64"
 cuda = "12.0"
 cuda_platform = "jetson"
-git-tree-sha1 = "272ec1f55e084f6ea46f310766d43351ddd72380"
+git-tree-sha1 = "50b0a1067ebf6bc3fc11e9b4fd9b5a17ef90caf4"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CUDNN.download]]
-    sha256 = "dc703b43a98793a01d474b4eb2440f113f9e19f9de5a6b6e23f78a9e6e38bd8e"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.4.0+0/CUDNN.v9.4.0.aarch64-linux-gnu-cuda_platform+jetson-cuda+12.0.tar.gz"
+    sha256 = "1d2bcca0c1b8082e20f72bdb216be396e8696dd2c2c32bd86fe2cd775518b561"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.7.0+0/CUDNN.v9.7.0.aarch64-linux-gnu-cuda_platform+jetson-cuda+12.0.tar.gz"
 [[CUDNN]]
 arch = "aarch64"
 cuda = "12.0"
 cuda_platform = "sbsa"
-git-tree-sha1 = "9e5d442b4a1ada8b0468c7575e51303ada39a142"
+git-tree-sha1 = "7ddd5f0302675e248f828dcaec51412a377ef53c"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CUDNN.download]]
-    sha256 = "71d541370409b788f1919260f591c60c14b1a4331ef7db9cb5a20876d7bd4c33"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.4.0+0/CUDNN.v9.4.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
+    sha256 = "94aafe6606bc0c55e1b794d91d294f821f71b4bbbba38c25f7d7ec801e2a6153"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.7.0+0/CUDNN.v9.7.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
 [[CUDNN]]
 arch = "x86_64"
 cuda = "12.0"
-git-tree-sha1 = "9d1368c3c051c95addb67795770c0183653cfb1b"
+git-tree-sha1 = "5a6f6d3c2aa47428488f1fbd336912c575c1da52"
 lazy = true
 os = "windows"
 
     [[CUDNN.download]]
-    sha256 = "118ae88102aacfee95d8dbb78ed74844730cf173ee280d7ecd8adcc5e7efef14"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.4.0+0/CUDNN.v9.4.0.x86_64-w64-mingw32-cuda+12.0.tar.gz"
+    sha256 = "0de19a6b793939c405b6ca05fc4a4185898dae22f1e0624f3b69e704857e1958"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.7.0+0/CUDNN.v9.7.0.x86_64-w64-mingw32-cuda+12.0.tar.gz"
