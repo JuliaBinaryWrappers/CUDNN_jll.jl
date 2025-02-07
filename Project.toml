@@ -1,6 +1,6 @@
 name = "CUDNN_jll"
 uuid = "62b44479-cb7b-5706-934f-f13b2eb2e645"
-version = "8.9.5+0"
+version = "8.9.6+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
