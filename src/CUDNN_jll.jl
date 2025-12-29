@@ -7,5 +7,5 @@ Base.include(@__MODULE__, joinpath("..", ".pkg", "platform_augmentation.jl"))
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("CUDNN")
-JLLWrappers.@generate_main_file("CUDNN", UUID("62b44479-cb7b-5706-934f-f13b2eb2e645"))
+JLLWrappers.@generate_main_file("CUDNN", Base.UUID("62b44479-cb7b-5706-934f-f13b2eb2e645"))
 end  # module CUDNN_jll
