@@ -8,7 +8,7 @@ os = "linux"
 
     [[CUDNN.download]]
     sha256 = "4dccae86ffc13725ff3678562d882bb7c444b014d87ae8f2fb5a273e207a4c5c"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+1/CUDNN.v9.24.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+2/CUDNN.v9.24.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
 [[CUDNN]]
 arch = "aarch64"
 cuda = "12.0"
@@ -20,7 +20,7 @@ os = "linux"
 
     [[CUDNN.download]]
     sha256 = "1a98f8c1178b57c36c19209b207772d65767a436c387f05a04e26351d9f524a8"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+1/CUDNN.v9.24.0.aarch64-linux-gnu-cuda_platform+jetson-cuda+12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+2/CUDNN.v9.24.0.aarch64-linux-gnu-cuda_platform+jetson-cuda+12.0.tar.gz"
 [[CUDNN]]
 arch = "aarch64"
 cuda = "12.0"
@@ -32,7 +32,7 @@ os = "linux"
 
     [[CUDNN.download]]
     sha256 = "1a98f8c1178b57c36c19209b207772d65767a436c387f05a04e26351d9f524a8"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+1/CUDNN.v9.24.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+2/CUDNN.v9.24.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.0.tar.gz"
 [[CUDNN]]
 arch = "x86_64"
 cuda = "12.0"
@@ -42,7 +42,7 @@ os = "windows"
 
     [[CUDNN.download]]
     sha256 = "d91db6dab8beb28b48afa9484b41322184c4d5869db43dbbd97a6c4e5a414ffc"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+1/CUDNN.v9.24.0.x86_64-w64-mingw32-cuda+12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+2/CUDNN.v9.24.0.x86_64-w64-mingw32-cuda+12.0.tar.gz"
 [[CUDNN]]
 arch = "x86_64"
 cuda = "13.0"
@@ -53,7 +53,7 @@ os = "linux"
 
     [[CUDNN.download]]
     sha256 = "669a692ac3df9efb465b56374f23ffcc79de508a78010b65d1656e885bb03732"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+1/CUDNN.v9.24.0.x86_64-linux-gnu-cuda+13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+2/CUDNN.v9.24.0.x86_64-linux-gnu-cuda+13.0.tar.gz"
 [[CUDNN]]
 arch = "aarch64"
 cuda = "13.0"
@@ -64,7 +64,7 @@ os = "linux"
 
     [[CUDNN.download]]
     sha256 = "16ac07ce844db9bfe34db5eb224b5c8b84518ca86a4fed6d37b03b77d77c0908"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+1/CUDNN.v9.24.0.aarch64-linux-gnu-cuda+13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+2/CUDNN.v9.24.0.aarch64-linux-gnu-cuda+13.0.tar.gz"
 [[CUDNN]]
 arch = "x86_64"
 cuda = "13.0"
@@ -74,4 +74,4 @@ os = "windows"
 
     [[CUDNN.download]]
     sha256 = "2eea2cd563d7db07adf7750c0ebe4b50f9e256abd4d6616a576bc0bb0b8ecdd3"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+1/CUDNN.v9.24.0.x86_64-w64-mingw32-cuda+13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_jll.jl/releases/download/CUDNN-v9.24.0+2/CUDNN.v9.24.0.x86_64-w64-mingw32-cuda+13.0.tar.gz"
